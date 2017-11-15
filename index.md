@@ -49,6 +49,6 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 ```
 [心の底へ](http://www.nicovideo.jp/)
 ```
-<たのしい
-<とてもたのしい
-<<環境破壊は気持ちいいぞい！
+> たのしい
+> とてもたのしい
+>> 環境破壊は気持ちいいぞい！
